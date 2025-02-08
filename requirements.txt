@@ -1,0 +1,6 @@
+numpy == 1.24.3
+tensorflow == 2.15.0
+flask == 3.0.3
+nltk ==3.8.1
+
+
